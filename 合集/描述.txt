@@ -3,6 +3,9 @@
 
 复制  集合.js  脚本部署在Cloudflare的workers保存使用
 
+变量值访问以下链接自行自由设定
+
+访问链接:https://xymm.infinityfreeapp.com/0512.php
 
 提示：仅OK影视壳子使用
 ---------------------------------
